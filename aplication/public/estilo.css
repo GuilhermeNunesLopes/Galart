@@ -56,5 +56,21 @@
     padding: 2%;
 }
 .menu-fixo{
+    width: 100%;
+    position: fixed !important;
+    top:0;
+    z-index: 2;
+}
+.navbar-brand{
+    margin: 0;
+
+}
+.collapse{
+    margin-left: 10%;
+}
+.navbar{
     position: fixed;
+}
+.nav-item{
+  padding: 2px;
 }
